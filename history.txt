@@ -1,0 +1,6 @@
+https://api.glitch.com
+    1  git checkout -b glitch
+    2  cp terms.md newterms.md
+    3  echo $API_SERVER_EXTERNAL >> history.txt
+    4  git add history.txt
+    5  history >> history.txt
