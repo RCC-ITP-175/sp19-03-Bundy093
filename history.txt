@@ -4,3 +4,19 @@ https://api.glitch.com
     3  echo $API_SERVER_EXTERNAL >> history.txt
     4  git add history.txt
     5  history >> history.txt
+https://api.glitch.com
+    1  git checkout -b glitch
+    2  cp terms.md newterms.md
+    3  echo $API_SERVER_EXTERNAL >> history.txt
+    4  git add history.txt
+    5  history >> history.txt
+    6  git add history.txt
+    7  git commit -m "Edits on glitch"
+    8  git push origin glitch
+    9  git push origin glitch
+   10  git config user.email "db27954@email.vccs.edu"
+   11  git config user.name "Dewayne Bundy"
+   12  git checkout -b glitch
+   13  cp terms.md newterms.md
+   14  echo $API_SERVER_EXTERNAL >> history.txt
+   15  history >> history.txt
