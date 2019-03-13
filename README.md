@@ -6,3 +6,4 @@ It is gray
 Cloudy
 white
 It is Dark and Light
+The sky is everlasting
