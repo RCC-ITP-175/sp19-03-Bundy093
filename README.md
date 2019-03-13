@@ -8,3 +8,4 @@ white
 It is Dark and Light
 The sky drops precipitation
 The sky is everlasting
+Dark clouds mean storm
