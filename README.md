@@ -5,3 +5,4 @@ It is blue
 It is gray
 Cloudy
 white
+It is Dark and Light
